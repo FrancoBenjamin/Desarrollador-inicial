@@ -1,0 +1,73 @@
+* { 
+    
+    
+    
+    
+    
+    
+    font-family: 'segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+
+
+}
+
+
+body{
+
+    background: tomato;
+}
+#contenedor {
+
+    background:oldlace;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-left: 50px;
+    padding-right: 30px;
+    padding-bottom: 20px ;
+
+}
+    
+
+  
+
+    .titulo {
+        text-align: center;
+        color: rgb(19, 73, 73);
+
+
+
+
+    
+
+}
+
+.destacado
+{
+color: tomato ;
+font-size: 25px;
+
+
+}
+
+.segundoparrafo {
+
+color: blueviolet;
+
+
+
+
+
+}
+
+
+;
+
+
+
+
+
+
+
